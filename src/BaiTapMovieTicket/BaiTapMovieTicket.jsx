@@ -22,7 +22,7 @@ export default class BaiTapMovieTicket extends Component {
           <div className='container'>
             <div className='row'>
               <div className='col-8 text center'>
-                <div className='text-warning display-4'>ĐẶT VÉ XEM PHIM CYBERSOFT.VN</div>
+                <div className='text-warning'>ĐẶT VÉ XEM PHIM CYBERSOFT.VN</div>
                 <div className='mt-3 text-light text-center' style={{fontSize:"25px"}}>Màn hình</div>
                 <div className='mt-2' style={{display:"flex",flexDirection:"row",justifyContent:"center"}}>
                   <div className='screen'></div>
